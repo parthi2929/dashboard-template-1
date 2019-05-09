@@ -1,0 +1,17 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "a simple dashboard template",
+  "main": "nserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd server && node nserver.js"
+  },
+  "author": "Parthiban Rajendran",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
